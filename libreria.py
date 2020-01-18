@@ -208,6 +208,8 @@ def es_respuesta_validad(strRspta):
 #2. si no retornar False
     return False
 
+
+
 #EJ 14
 
 def es_respuesta_validad(strRspta):
